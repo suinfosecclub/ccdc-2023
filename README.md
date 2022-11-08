@@ -1,1 +1,1 @@
-# ccdc-2023
+Syracuse University's repository for CCDC 2023.
